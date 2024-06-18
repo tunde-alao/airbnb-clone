@@ -1,0 +1,1 @@
+ /Users/tunde/Documents/Projects/App\ Clones/App-Clone-Template/.dart_tool/flutter_build/7c2bf17910dc2f77c5be6dd6883d6468/native_assets.yaml: 
